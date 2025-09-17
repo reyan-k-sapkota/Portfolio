@@ -4,7 +4,7 @@ permalink: /campus-involvement/
 layout: archive
 author_profile: true
 ---
-
+<div class="experience">
 ### Engineers Without Borders (EWB) Pulchowk
 **Part-time · 1 yr 4 mos**
 
@@ -48,3 +48,5 @@ author_profile: true
 *Oct 2023 – Mar 2024 · 6 mos*  
 - English Article Editor for the annually issued *"The Bridge: 2024"* magazine.  
 - Reviewed and edited articles to maintain publication quality.
+
+</div>
