@@ -1,7 +1,7 @@
 ---
 title: Campus Involvement
 permalink: /campus-involvement/
-layout: archive
+layout: page
 author_profile: true
 ---
 
