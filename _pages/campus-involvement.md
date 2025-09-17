@@ -5,7 +5,7 @@ layout: archive
 author_profile: true
 ---
 
-## Engineers Without Borders (EWB) Pulchowk
+# Engineers Without Borders [EWB] Pulchowk
 **Part-time · 1 yr 4 mos**
 
 **Project Coordinator**  
@@ -18,7 +18,7 @@ author_profile: true
 
 ---
 
-## MAPS Pulchowk
+# Maths and Physics Society [MAPS] Pulchowk
 **Part-time · 2 yrs**  
 
 
@@ -32,7 +32,7 @@ author_profile: true
 **Work Mode:** Hybrid
 ---
 
-## Civil Engineering Students' Society-NEPAL (CESS-NEPAL)
+# Civil Engineering Students' Society-NEPAL [CESS-NEPAL]
 
 **Program Development and Editorial Committee**  
 *Oct 2024 – Mar 2025 · 6 mos*  
@@ -41,7 +41,7 @@ author_profile: true
 
 ---
 
-## Civil Engineering Students' Society-NEPAL (CESS-NEPAL)
+# Civil Engineering Students' Society-NEPAL [CESS-NEPAL]
 
 **Editor**  
 *Oct 2023 – Mar 2024 · 6 mos*  
