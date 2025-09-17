@@ -1,10 +1,9 @@
 ---
 title: Campus Involvement
 permalink: /campus-involvement/
-layout: single
+layout: archive
 author_profile: true
 ---
 
-# Campus Involvement
 
-Write your content here: clubs, organizations, volunteer work, etc.
+Change done: Write your content here: clubs, organizations, volunteer work, etc.
