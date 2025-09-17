@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Web Application Prototype on Air Quality Index Prediction, Monitoring, and Information Dissemination System: Machine Learning and Python-Streamlit-based Application Tailored for Kathmandu Metropolitan City"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://www.nepjol.info/index.php/jes/article/view/80600
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2025-07-14
+venue: 'Journal of Environment Sciences, Volume 11, 2025'
+paperurl: 'https://www.nepjol.info/index.php/jes/article/view/80600'
+citation: 'Sapkota, R. K., Adhikari, N., Subedi, C., Jha, R., & Subedi, M. (2025). Web Application Prototype on Air Quality Index Prediction, Monitoring, and Information Dissemination System: Machine Learning and Python-Streamlit-based Application Tailored for Kathmandu Metropolitan City . Journal of Environment Sciences, 11(1), 28–33. https://doi.org/10.3126/jes.v11i1.80600'
 ---
-The contents has been changed by Reyan above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper proposes a web application prototype tailored for Kathmandu Metropolitan City to predict, monitor, and disseminate information about the Air Quality Index (AQI) from major stations in the valley. The application prototype integrates three regression-based machine learning models (Random Forest Regressor, CatBoost Regressor, and Gradient Boosting Regressor) to provide accurate AQI predictions. It also features an intuitive user interface (UI based on Python-Streamlit) that enables the admin side of KMC to retrieve accurate AQI predictions/visualizations, disseminate personalized recommendations/ email alerts to residents and the federal government, and facilitate station-wise mapping on Kathmandu Metropolitan City’s map (using Python-Folium).
