@@ -4,25 +4,23 @@ permalink: /campus-involvement/
 layout: archive
 author_profile: true
 ---
-<div class="experience">
-### Engineers Without Borders (EWB) Pulchowk
+
+## Engineers Without Borders (EWB) Pulchowk
 **Part-time · 1 yr 4 mos**
 
 **Project Coordinator**  
 *Nov 2024 – Present · 11 mos*  
   
-
 **General Member**  
 *Jun 2024 – Nov 2024 · 6 mos*  
-
 
 **Work Mode:** Hybrid
 
 ---
 
-### MAPS Pulchowk
+## MAPS Pulchowk
 **Part-time · 2 yrs**  
-**Work Mode:** Hybrid
+
 
 **Vice Secretary**  
 *Nov 2024 – Present · 11 mos*  
@@ -31,9 +29,10 @@ author_profile: true
 **General Member | Physics Team**  
 *Oct 2023 – Nov 2024 · 1 yr 2 mos*  
 
+**Work Mode:** Hybrid
 ---
 
-### Civil Engineering Students' Society-NEPAL (CESS-NEPAL)
+## Civil Engineering Students' Society-NEPAL (CESS-NEPAL)
 
 **Program Development and Editorial Committee**  
 *Oct 2024 – Mar 2025 · 6 mos*  
@@ -42,11 +41,9 @@ author_profile: true
 
 ---
 
-### Civil Engineering Students' Society-NEPAL (CESS-NEPAL)
+## Civil Engineering Students' Society-NEPAL (CESS-NEPAL)
 
 **Editor**  
 *Oct 2023 – Mar 2024 · 6 mos*  
 - English Article Editor for the annually issued *"The Bridge: 2024"* magazine.  
 - Reviewed and edited articles to maintain publication quality.
-
-</div>
