@@ -2,7 +2,7 @@
 title: "VOICE ASSISTED and IOT based SMART HOME AUTOMATION SYSTEM"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/homeautomation
 #venue: "UC San Francisco, Department of Testing"
 date: 2020-02-01
 #location: "San Francisco, CA, USA"
