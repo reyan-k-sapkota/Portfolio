@@ -4,7 +4,7 @@ collection: teaching
 #type: "Workshop"
 permalink: /teaching/award2
 #venue: "University 1, Department"
-date: 2023-12-01
+date: 2025-12-01
 location: "Pulchowk"
 ---
 
