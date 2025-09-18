@@ -1,24 +1,22 @@
 ---
-title: "Runner-Up, Prastav 2.0 (National Level Ideathon, 2025): AI and Engineering Category"
+title: "2nd Position in the Asia Innovative Leader Camp"
 collection: teaching
 #type: "Workshop"
-permalink: /teaching/award1
+permalink: /teaching/award2
 #venue: "University 1, Department"
-date: 2025-02-01
+date: 2023-12-01
 location: "Pulchowk"
 ---
 
-*Issued by National Level Ideathon competition organized jointly by Kathmandu Valley Leo Club and CESS-Nepal. · Jan 2025*
+*Issued by Asian Universities Alliance (AUA) - Universitas Indonesia · Dec 2023. Asia Innovative Leader Camp 2023 was hosted jointly by Universitas Indonesia and St. Louis University*
 
-**Key Features & Implementation:**
-- Coded a web application tailored for Kathmandu Metropolitan City to predict, monitor, and disseminate information
-about the air quality index (AQI)
+# Key Features & Implementation:
 
-- Integrated three regression-based machine learning models (Random Forest Regressor, CatBoost Regressor, and
-Gradient Boosting Regressor) to provide accurate AQI predictions an intuitive user interface (UI based on
-Python-Streamlit) that allows the admin side of KMC to fetch accurate AQI predictions/visualizations, disseminate
-personalized recommendations/ email alerts for residents and the federal government, and allow station-wise mapping
-on Kathmandu Metropolitan City’s map (using Python-Folium).
+- Prepared a review article on the topic, *“The Prospect of Green Hydrogen Production in Nepal”* under the guidance of Dr. Pawan Bhattarai (IOE Pulchowk Campus). 
+
+- Gave the leader’s pitch in the finals and secured Second Position in the theme ENERGY AND SUSTAINABILITY. $50 Cash Prize
+
 
 **Links:**  
-- [GitHub Repository](https://github.com/reyan-k-sapkota/Air-Quality-Index-AQI-Prediction)
+- [Submission](https://drive.google.com/file/d/1QrnT--IcvsneT7IJXU36tZ8KaKCFMPvm/view)
+- [RunnerUp](https://drive.google.com/file/d/1t8ukyl9kfLxB8WtGdBv7dWznTCkCpn9i/view?usp=sharing)
