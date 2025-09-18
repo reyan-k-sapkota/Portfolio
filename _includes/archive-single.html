@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> <!--{{ post.type }},--> <i><!--{{ post.venue }}--></i><!--, {{ post.date | default: "1900-01-01" | date: "%Y" }} --> </p>
+          <p> {%comment%}<!--{{ post.type }},-->{%endcomment%} <i>{%comment%}<!--{{ post.venue }}--> {%endcomment%}</i>{%comment%}<!--, {{ post.date | default: "1900-01-01" | date: "%Y" }} --> {%endcomment%}</p>
         {% elsif post.collection == 'publications' %}
           <p><i>{{ post.venue }}</i> <!--{{ post.date | default: "1900-01-01" | date: "%Y" }} --> </p>
         {% elsif post.date %}
