@@ -1,10 +1,10 @@
 ---
-title: "Runner-Up | Prastav 2.0 (National Level Ideathon, 2025) | AI and Engineering Category"
+title: "Runner-Up, Prastav 2.0 (National Level Ideathon, 2025): AI and Engineering Category"
 collection: teaching
 #type: "Workshop"
 permalink: /teaching/award1
 #venue: "University 1, Department"
-#date: 2015-01-01
+date: 2025-02-01
 location: "Pulchowk"
 ---
 
