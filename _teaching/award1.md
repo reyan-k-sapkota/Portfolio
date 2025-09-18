@@ -2,7 +2,7 @@
 title: "2nd Position in the Asia Innovative Leader Camp"
 collection: teaching
 #type: "Workshop"
-permalink: /teaching/award2
+permalink: /teaching/award1
 #venue: "University 1, Department"
 date: 2025-12-01
 location: "Pulchowk"

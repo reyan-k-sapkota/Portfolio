@@ -2,7 +2,7 @@
 title: "Outstanding Student Award."
 collection: teaching
 #type: "Workshop"
-permalink: /teaching/award1
+permalink: /teaching/award6
 #venue: "University 1, Department"
 date: 2023-02-01
 location: "Pulchowk"

@@ -2,7 +2,7 @@
 title: "1st Prize in the English Essay Writing Contest"
 collection: teaching
 #type: "Workshop"
-permalink: /teaching/award1
+permalink: /teaching/award8
 #venue: "University 1, Department"
 date: 2020-02-01
 location: "Pulchowk"

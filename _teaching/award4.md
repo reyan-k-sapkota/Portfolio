@@ -2,7 +2,7 @@
 title: "International Blockchain Olympiad (IBCOL), Bangladesh, Team Nepal, Finalist. "
 collection: teaching
 #type: "Workshop"
-permalink: /teaching/award1
+permalink: /teaching/award4
 #venue: "University 1, Department"
 date: 2024-09-01
 location: "Pulchowk"

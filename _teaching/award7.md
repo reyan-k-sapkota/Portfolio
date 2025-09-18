@@ -2,7 +2,7 @@
 title: "1st Prize in the Intra College Spell Bee Competition."
 collection: teaching
 #type: "Workshop"
-permalink: /teaching/award1
+permalink: /teaching/award7
 #venue: "University 1, Department"
 date: 2021-02-01
 location: "Pulchowk"

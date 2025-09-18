@@ -2,7 +2,7 @@
 title: "Glocal’s 20Under20, Batch of 2021"
 collection: teaching
 #type: "Workshop"
-permalink: /teaching/award1
+permalink: /teaching/award3
 #venue: "University 1, Department"
 date: 2024-11-01
 location: "Pulchowk"

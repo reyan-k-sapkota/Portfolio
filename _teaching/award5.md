@@ -2,7 +2,7 @@
 title: "Young Innovator Award. "
 collection: teaching
 #type: "Workshop"
-permalink: /teaching/award1
+permalink: /teaching/award5
 #venue: "University 1, Department"
 date: 2024-02-01
 location: "Pulchowk"
