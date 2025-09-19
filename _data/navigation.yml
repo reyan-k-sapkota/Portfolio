@@ -17,7 +17,7 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Campus Involvements"
+  - title: "Campus Involvement"
     url: /campus-involvement/
 
   - title: "Projects"
@@ -28,9 +28,6 @@ main:
 
   - title: "Manim"
     url: /portfolio/ 
-  
-  - title: "Media"
-    url: /media/
 
   - title: "CV"
     url: /Resume/FinalResumeforASCEReyan.pdf
