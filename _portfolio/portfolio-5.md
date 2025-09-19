@@ -1,5 +1,5 @@
 ---
-title: "e. Pythagoras Theorem - Garfieled's Proof"
+title: "e. Pythagoras Theorem - Garfield's Proof"
 #excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 
