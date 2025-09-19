@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate **Civil Engineering student** at **Tribhuvan University, IOE, Pulchowk Campus** (2023–2027).  
 
-
+<br>
 # Education
 
 ## Institute of Engineering, Pulchowk Campus.  
@@ -41,7 +41,7 @@ I am an undergraduate **Civil Engineering student** at **Tribhuvan University, I
 
 
 
-
+<br>
 # Memberships
 
 ## Student Member 
