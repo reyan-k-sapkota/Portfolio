@@ -13,20 +13,20 @@ I am an undergraduate **Civil Engineering student** at **Tribhuvan University, I
 # Education
 
 ## Institute of Engineering, Pulchowk Campus.  
-**Bachelor of Engineering (B.E.) – Civil Engineering **  
-*Apr 2023 – Apr 2027*  
+**Bachelor of Engineering (B.E.) – Civil Engineering**  
+*Apr 2023 – Apr 2027*
 *3rd Year*
 
 
 
 ## St. Xavier’s College, Maitighar  
-** High School – Science Faculty (Physics Department) **  
+**High School – Science Faculty (Physics Department)**  
 *Grade 11 – Grade 12*  
 
 
 
 ## St. Xavier’s School, Jawalakhel  
-** Secondary Education Examination (SEE) **  
+**Secondary Education Examination (SEE)**  
 *Grade 7 – Grade 10*  
 
 
